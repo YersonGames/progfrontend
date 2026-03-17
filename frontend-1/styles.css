@@ -1,0 +1,14 @@
+h1,h2
+    {
+    color:blue;
+    }
+p
+    {
+    color: lime;
+    font-size: 50px;
+    }
+body
+    {
+    background-color: red;
+    background-blend-mode: lighten;
+    }

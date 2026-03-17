@@ -1,0 +1,40 @@
+que es un servidor?
+
+Un servidor es un computador que entrega paginas web cuando un navegador las solicita
+
+Ejemplo: Cuando se escribe "www.google.com" el navegador pide la pagina al servidor de Google, y este responde enviando archivos con:
+    -HTML
+    -CSS
+    -Javascript
+    -Imagenes
+
+CSS es el lenguaje que define el diseño y la apariencia de una pagina web
+
+CSS controla cosas como...
+    -Colores
+    -Tamaños
+    -Posiciones
+    -Margenes
+    -Tipografias
+
+Ejemplo:
+
+    h1
+        {
+        color: blue;
+        font-size: 40px;
+        }
+
+    
+Javascript es un lenguaje de programacion que permite agregar interactividad a las paginas web
+
+Con Javascript podemos...
+    -Reaccionar a clics
+    -Validar formularios
+    -Modificar el contenido
+    -Utilizar API's
+    -Crear aplicaciones web
+
+Ejemplo:
+    aler("Hola mundo");
+
