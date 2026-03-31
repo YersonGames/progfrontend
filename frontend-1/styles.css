@@ -43,3 +43,12 @@ img
         display: block;
         margin: auto;
     }
+.caja
+    {
+        background-color: lightyellow;
+        width: 300px; /*Caja tendra 300 pixeles de ancho*/
+        padding: 20px; /*espacio entre texto y borde*/
+        border: 2px solid orange; /*Grosor borde y color*/
+        margin: auto; /*margen*/
+        border-radius: 10px; /* esquinas redondeadas*/
+    }

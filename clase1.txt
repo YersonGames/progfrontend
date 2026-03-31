@@ -36,5 +36,5 @@ Con Javascript podemos...
     -Crear aplicaciones web
 
 Ejemplo:
-    aler("Hola mundo");
+    alert("Hola mundo");
 
