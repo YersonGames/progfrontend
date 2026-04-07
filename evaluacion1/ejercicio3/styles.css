@@ -1,0 +1,10 @@
+a
+    {
+        color:fuchsia;
+        text-decoration: none;
+    }
+a:hover
+    {
+        color: black;
+        font-size: 110%;
+    }

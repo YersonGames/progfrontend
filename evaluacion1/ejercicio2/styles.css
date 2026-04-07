@@ -1,0 +1,32 @@
+h1
+    {
+        color: lightblue;
+    }
+p
+    {
+        color: lightgreen;
+        font-size: 20px;
+    }
+body
+    {
+        background-color: lightgoldenrodyellow;
+    }
+
+#titulo
+    {
+        color: lightcoral;
+        text-align: center;
+    }
+.texto
+    {
+
+        color: lightseagreen;
+        font-size: 30px;
+    }
+.contenido
+    {
+        background-color: lightgreen;
+        padding: 15px;
+        border: dotted lightblue;
+        margin: 40px;
+    }
