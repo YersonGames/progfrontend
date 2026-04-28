@@ -1,0 +1,27 @@
+.caja
+    {
+        display: inline-block;
+        width: 100px;
+        height: 50px;
+        background-color: yellow;
+        margin: 5px;
+        text-align: center;
+    }
+.bloque
+    {
+        display: block;
+        background-color: lightgray;
+    }
+.inline
+    {
+        display: inline;
+        background-color: lightblue;
+    }
+.inlineblock
+    {
+        display: inline-block;
+        width: 100px;
+        height: 50px;
+        background-color: red;
+        margin: 5px;
+    }
